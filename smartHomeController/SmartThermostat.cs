@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace smartHomeController
 {
-    internal class SmartThermostat
+    internal class SmartThermostat : SmartDevice
     {
     }
 }
